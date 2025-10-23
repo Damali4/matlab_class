@@ -1,0 +1,4 @@
+LastName	FirstName	YearBirth	MonthBirth	DayBirth
+Smith	Jan	1993	Feb	24
+Roberts	Bob	1980	Mar	13
+Johnson	Don	2010	Apr	2
