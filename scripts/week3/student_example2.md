@@ -20,3 +20,4 @@ You can generalize this in the following way:
 > function [output1, output2] = functionname(input1, input2, ...)
 
 Good Luck! When you are done, test out some values to ensure that it is working properly. NOTE: Please do not use the 'roots' function to do this. I am looking for you to practice basic coding, not leverage higher functions.
+
